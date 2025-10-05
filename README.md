@@ -9,5 +9,5 @@ This repository is supported by our published research work:
 
 **An Assessment of Artificial Intelligence and Machine Learning Applications in Remote Sensing for Crop Classification**
 
-[👉 View Full Paper (PDF)](https://github.com/SwaraB3/Crop_Classification_Tulare/blob/main/Research_Paper/Crop_Classification_Research_Paper.pdf)
+<iframe src="Research_Paper/Crop_Classification_Research_Paper.pdf" width="100%" height="600px"></iframe>
 
