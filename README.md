@@ -3,3 +3,12 @@ This is a fairly large project, the objective of the project was to classify the
 
 An image of Tulare county
 ![RGB_picture](https://github.com/Androcinus/Crop_Classification_Tulare/assets/129663854/f73ca55b-4a71-4807-8a98-a58c6c8cd451)
+
+
+## 📄 Research Paper
+This repository is supported by our published research work:
+
+**An Assessment of Artificial Intelligence and Machine Learning Applications in Remote Sensing for Crop Classification**
+
+[👉 View Full Paper (PDF)](./Research_Paper/Crop_Classification_Research_Paper.pdf)
+👉 This way:
